@@ -579,7 +579,7 @@
 				<Connector>
 					<Id>1547782519879</Id>
 					<Name><![CDATA[connector9]]></Name>
-					<X>10</X><Y>90</Y>
+					<X>0</X><Y>90</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -612,7 +612,7 @@
 				<Connector>
 					<Id>1547782519881</Id>
 					<Name><![CDATA[connector10]]></Name>
-					<X>10</X><Y>90</Y>
+					<X>0</X><Y>90</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -1993,7 +1993,7 @@ agent.count--;]]></Code>
 				<EmbeddedObject>
 					<Id>1547782519846</Id>
 					<Name><![CDATA[pedSource1]]></Name>
-					<X>-610</X><Y>440</Y>
+					<X>-620</X><Y>440</Y>
 					<Label><X>-25</X><Y>-35</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -2217,7 +2217,7 @@ agent.count--;]]></Code>
 				<EmbeddedObject>
 					<Id>1547782519851</Id>
 					<Name><![CDATA[pedSink1]]></Name>
-					<X>-450</X><Y>440</Y>
+					<X>-460</X><Y>440</Y>
 					<Label><X>-25</X><Y>-30</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -2280,7 +2280,7 @@ agent.count--;]]></Code>
 				<EmbeddedObject>
 					<Id>1547782519866</Id>
 					<Name><![CDATA[delay4]]></Name>
-					<X>-530</X><Y>420</Y>
+					<X>-540</X><Y>420</Y>
 					<Label><X>-5</X><Y>-15</Y></Label>
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
